@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [StarLight-chat](https://github.com/orgs/StarLight-chat/repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KateySt/StarLight-beckend , https://github.com/KateySt/backend](https://github.com/KateySt/StarLight-beckend , https://github.com/KateySt/backend)
+- 👨‍💻 All of my projects are available at [https://github.com/KateySt/StarLight-beckend , https://github.com/KateySt/backend]
 
 - 💬 Ask me about **React or Spring**
 
