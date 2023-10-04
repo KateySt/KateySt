@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [StarLight-chat](https://github.com/orgs/StarLight-chat/repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KateySt/StarLight-beckend , https://github.com/KateySt/backend]
+- 👨‍💻 All of my projects are available at [https://github.com/KateySt/StarLight-beckend](https://github.com/KateySt/StarLight-beckend) , [https://github.com/KateySt/backend](https://github.com/KateySt/backend)
 
 - 💬 Ask me about **React or Spring**
 
-- 📫 How to reach me **kateystetsenko@gmail.com**
+- 📫 How to reach me **kateystetsenko@gmail.com**, 
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
