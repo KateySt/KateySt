@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **React or Spring**
 
-- 📫 How to reach me **kateystetsenko@gmail.com**, 
+- 📫 How to reach me **kateystetsenko@gmail.com** 
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive), [https://www.linkedin.com/in/kateryna-stetsenko-72311b251/](https://www.linkedin.com/in/kateryna-stetsenko-72311b251/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
