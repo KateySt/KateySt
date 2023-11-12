@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [StarLight-chat](https://github.com/orgs/StarLight-chat/repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KateySt/StarLight-beckend](https://github.com/KateySt/StarLight-beckend) , [https://github.com/KateySt/backend](https://github.com/KateySt/backend), [https://github.com/KateySt/js-project](https://github.com/KateySt/js-project) 
+- 👨‍💻 All of my projects are available at [StarLight-beckend](https://github.com/KateySt/StarLight-beckend) , [backend](https://github.com/KateySt/backend), [chat](https://github.com/KateySt/js-project) 
 
 - 💬 Ask me about **React or Spring**
 
 - 📫 How to reach me **kateystetsenko@gmail.com** 
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive), [https://www.linkedin.com/in/kateryna-stetsenko-72311b251/](https://www.linkedin.com/in/kateryna-stetsenko-72311b251/)
+- 📄 Know about my experiences [CV](https://drive.google.com/drive/u/0/my-drive), [LinkedIn](https://www.linkedin.com/in/kateryna-stetsenko-72311b251/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
