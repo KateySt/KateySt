@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kateryna</h1>
 <h3 align="center">Full stack developer</h3>
-<img align="right" alt="Coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+<img align="right" alt="Coding" width="400"  src="https://steamuserimages-a.akamaihd.net/ugc/959732343597073737/5FBAF677D6CFDB27481A5F5E2C146F4858F963BA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
 - 🔭 I’m currently working on [StarLight-chat](https://github.com/orgs/StarLight-chat/repositories)
 
