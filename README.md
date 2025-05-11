@@ -2,9 +2,6 @@
 <h3 align="center">Full stack developer</h3>
 <img align="right" alt="Coding" width="400"  src="https://steamuserimages-a.akamaihd.net/ugc/959732343597073737/5FBAF677D6CFDB27481A5F5E2C146F4858F963BA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
-
-- 👨‍💻 All of my projects are available at [StarLight-beckend](https://github.com/KateySt/StarLight-beckend) , [backend](https://github.com/KateySt/backend), [chat](https://github.com/KateySt/js-project), [shop](https://github.com/orgs/StarLight-chat/repositories)
-
 - 💬 Ask me about **React or Spring**
 
 - 📫 How to reach me **kateystetsenko@gmail.com** 
